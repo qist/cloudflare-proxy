@@ -1,4 +1,4 @@
-# cloudflare-docker-proxy
+# cloudflare-proxy
 
 ## Deploy
 ```
