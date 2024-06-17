@@ -11,6 +11,7 @@ const routes = {
   "k8s.boown.com": "https://registry.k8s.io",
   "ghcr.boown.com": "https://ghcr.io",
   "cloudsmith.boown.com": "https://docker.cloudsmith.io",
+  "pypi.boown.com": "https://pypi.org",
 };
 
 function routeByHosts(host) {
