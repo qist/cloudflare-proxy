@@ -12,6 +12,8 @@ const routes = {
   "ghcr.boown.com": "https://ghcr.io",
   "cloudsmith.boown.com": "https://docker.cloudsmith.io",
   "pypi.boown.com": "https://pypi.org",
+  "npmjs.boown.com": "https://registry.npmjs.org",
+  "cnpmjs.boown.com": "http://r.cnpmjs.org",
 };
 
 function routeByHosts(host) {
