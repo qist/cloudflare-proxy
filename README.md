@@ -31,7 +31,8 @@ cf 优选ip https://github.com/XIU2/CloudflareSpeedTest
    - deploy this project to cloudflare workers
    - add `xxx.example.com/*` to HTTP routes of workers
    - add more records and modify the config as you need
-   ```javascript
+  
+```javascript
    const routes = {
   "docker.boown.com": "https://registry-1.docker.io",
   "quay.boown.com": "https://quay.io",
@@ -44,5 +45,5 @@ cf 优选ip https://github.com/XIU2/CloudflareSpeedTest
   "npmjs.boown.com": "https://registry.npmjs.org",
   "cnpmjs.boown.com": "http://r.cnpmjs.org",
    };
-   ```
+```
 
